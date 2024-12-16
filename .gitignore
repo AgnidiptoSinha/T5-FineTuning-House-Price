@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Model files
+*.pth
+*.h5
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# Data files
+*.csv
+
+# PDF files
+*.pdf
